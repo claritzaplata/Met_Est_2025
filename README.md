@@ -10,7 +10,7 @@ Repositorio del curso de Métodos Estadísticos Agosto 2025 del programa de Inge
   + Crear cuenta de Github "claritzaplata"
   + Los maestros son muy amables 
     
-07/08/2025: Sincronizar Github con mi projecto :star:  
+:star: 07/08/2025: Sincronizar Github con mi projecto :star:  
   + Crar versión control 
   + Bases para un uso eficiente en R
   + Modificación de readme
